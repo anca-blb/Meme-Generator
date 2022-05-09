@@ -2,10 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed on github pages https://anca-blb.github.io/Meme-Generator/
 
 # About
 
-[Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontendReact) Project 
+[Scrimba Frontend Developer Career Path](https://scrimba.com) Project 
 
 Requirements : Build a Meme Generator
 
